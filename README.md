@@ -4,6 +4,7 @@
 <p align="center">
   <img src="static/bouvet_data.jpg" width="70%"/>
 </p>
+
 ## Setup for kurset
 
 Installer `requirements.txt` filen i et python virtualenv. Har du brukt Anaconda før kan du bruke det hvis du er komfortabel med det. Forslag til `IDE` er Visual Studio Code kort VSCode.
