@@ -2,7 +2,7 @@
 
 ## Setup for kurset
 
-Installer `requirements.txt` filen i et python virtualenv. Bruker du Anaconda kan du gjøre det hvis du vil
+Installer `requirements.txt` filen i et python virtualenv. Har du brukt Anaconda før kan du bruke det hvis du er komfortabel med det. Forslag til `IDE` er Visual Studio Code kort VSCode.
 
 ### Windows
 
